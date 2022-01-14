@@ -11,14 +11,14 @@ Both projects have been uploaded as repositories to Github with their builds and
 However due to the restrictions on cross-platform use of C#, the build can only be used on Windows, however workarounds can be used with Wine on MacOS
 
 Version 1
-'''
+```
 git clone https://github.com/Chris4285/Final-Project-v1.git
-'''
+```
 
 Version 2
-'''
+```
 git clone https://github.com/Chris4285/Final-Project-v2.git
-'''
+```
 
 #Comments
 
